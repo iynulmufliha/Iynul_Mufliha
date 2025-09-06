@@ -47,6 +47,11 @@ More projects: BookMyShow Clone, Social Media App, Task Manager, Portfolio Websi
 - 🔗 GitHub: [github.com/iynulmufliha](https://github.com/iynulmufliha)  
 - 📍 Location: Trichy, Tamil Nadu, India
 
+![GitHub followers](https://img.shields.io/github/followers/iynulmufliha?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=iynulmufliha&color=blueviolet)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iynulmufliha&layout=compact)
+
+
 ---
 
 Thanks for visiting my profile!
